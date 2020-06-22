@@ -1,0 +1,40 @@
+#loginform{
+    width:90%;
+    margin:auto;
+    padding-top: 2%;
+}
+
+#link{
+   font-size: 16px;
+   color:rgb(47, 123, 255);
+}
+#header{
+    margin-top: 1%;
+}
+
+#login-text {
+    float: left;
+    font-size:20px;
+}
+
+#sign-up {
+    text-align: center;
+    margin-top: 3%;
+}
+
+#button-signin {
+    margin-top: 3%;
+}
+
+#google-signin {
+    margin-top: 1%;
+}
+
+#login-card {
+    width: 35%;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}

@@ -1,0 +1,38 @@
+#courseInfo {
+    margin-left: 10%;
+    margin-right: 10%;
+
+    margin-bottom: 3%;
+    padding: 5%;
+    -moz-box-shadow: 0 0 3px #ccc;
+    -webkit-box-shadow: 0 0 3px #ccc;
+    box-shadow: 0 0 3px #ccc;
+}
+
+#newCourseHeading{
+    padding-left: 0;
+    margin-left: 10%;
+    margin-top: 3%;
+    text-align: left;
+}
+
+#deck-inputs {
+    margin-top: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+#courseNameGroup { 
+    grid-column: 1/4;
+    display: inherit;
+    grid-template-columns: 1fr 0.1fr;
+    column-gap: 1em;
+}
+
+.input-headers {
+    float: left;
+}
+
+svg {
+    cursor: pointer;
+}

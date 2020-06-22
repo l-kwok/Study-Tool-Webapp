@@ -1,0 +1,34 @@
+#register-form{
+    width:90%;
+    margin:auto;
+    padding-top: 2%;
+}
+
+#register-card {
+    width: 35%;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+#signup-text, #role-picker {
+    float: left;
+    font-size:20px;
+}
+
+#button-signup {
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+ #back-login {
+    margin-bottom: 3%;
+ }
+
+ .role {
+    margin:3%;
+    font-size:large;
+ }
+ 

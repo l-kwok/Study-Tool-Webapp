@@ -1,3 +1,5 @@
+By Linden Kwok, Scott Ritchie, Scott Plummer, Aidan Earle, Ahmed Irteza Haque
+
 # Development
 To set up your development environment you must do the following
 
